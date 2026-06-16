@@ -30,10 +30,8 @@ Reminder MKV - самая простая и очень эффективная н
 
 <p align="center">
   <img src="Screenshots/Main.PNG" width="150">
- <img src="Screenshots/1-1.PNG" width="150">
-  <img src="Screenshots/1.PNG" width="150">
-  <img src="Screenshots/2-1.PNG" width="150">
-  <img src="Screenshots/Setting.PNG" width="150">
+ <img src="Screenshots/1.PNG" width="150">
+
 </p>
 
 
